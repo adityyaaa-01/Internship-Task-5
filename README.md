@@ -43,6 +43,7 @@ It also covers model visualization, overfitting control, feature importance anal
 
 ## How to Run  
 
-1. Install dependencies:
-   ```bash
-   pip install pandas scikit-learn matplotlib
+1. Clone this repository
+2. Install required packages (scikit-learn, matplotlib, etc.)
+3. Open the notebook in Jupyter or Colab
+4. Run all cells
